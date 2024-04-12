@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate Software Engineer with experience in developing web applications and automated tests using HTML, CSS, React, and Express. Complex issues are my favorite, and critical thinking is my strongest skill.
+I'm a passionate Software Engineer with experience in developing web applications and automated tests using JavaScript, React, and Mocha.js. Complex issues are my favorite, and critical thinking is my strongest skill.
 
 - 🌱 Currently learning: Back-end development using Express.js and Postgresql
 - 🔭 Working on: Automate testing for open source projects, triaging issues for open source
