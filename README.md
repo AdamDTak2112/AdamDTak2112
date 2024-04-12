@@ -1,7 +1,5 @@
 # Hi there, I'm Adam! 👋
 
-![Banner Image](https://avatars.githubusercontent.com/u/16653752?v=4)
-
 ## About Me 🚀
 
 I'm a passionate Software Engineer with experience in developing web applications and automated tests using HTML, CSS, React, and Express. Complex issues are my favorite, and critical thinking is my strongest skill.
