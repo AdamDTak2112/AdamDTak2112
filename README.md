@@ -5,7 +5,7 @@
 I'm a passionate Software Engineer with experience in developing web applications and automated tests using JavaScript, React, and Mocha.js. Complex issues are my favorite, and critical thinking is my strongest skill.
 
 - 🌱 Currently learning: Back-end development using Express.js and Postgresql
-- 🔭 Working on: Automate testing for open source projects, triaging issues for open source
+- 🔭 Working on: Automate testing for open source projects, triaging issues for open source projects
 - 🌍 Languages: English, French, bits of Dutch
 - 📫 How to reach me: adam.tak2112@gmail.com
 - ⚡ Fun fact: My fingers bend in the wrong direction!
@@ -22,13 +22,13 @@ I'm a passionate Software Engineer with experience in developing web application
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Last Time](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Roman Numerals](https://roman-numeral.vercel.app/)
 
 ![Project 2 Screenshot](project_2_screenshot_url)
 
