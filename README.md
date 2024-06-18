@@ -26,7 +26,7 @@ I'm a passionate Software Engineer with experience in developing web application
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**Last Time** is a tracking application built with React. This project demonstrates my ability to track timestamps, and log them into storage to create an accurate log of times my dog has used the bathroom. You can check out the repository [here](https://github.com/AdamDTak2112/last-time).
 
 ### [Roman Numerals](https://roman-numeral.vercel.app/)
 
